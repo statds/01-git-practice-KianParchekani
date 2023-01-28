@@ -1,1 +1,4 @@
 Add for assignment 1
+This is a paragraph here is some filler ahhhhhh paragraph this is words i am typing this is what i am writing ahh words words words words. i hope to learn a lot of new things in the course this year, including how to efficiently code in Python, and how to collaborate with others in coding. In the past, I had never collaborated in coding (although I don't have too much experience) so I hope GitHub helps with that. This is all I can think to write.
+
+Now this is a short sentence for part 2.
