@@ -1,2 +1,2 @@
 # ids-s23
-Class notes for Introduction to Data Science, Spring 2023, Uconn
+My assignment 1 (had to clone repository, could not use terminal commands as they would not let me login)
